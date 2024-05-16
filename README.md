@@ -1,4 +1,4 @@
-<h1># Progetto-Javascript-Fabio-Prandi</h1>
+<h1># Progetto-Javascript Basics-Fabio-Prandi</h1>
 <ul> 
 <li>Per questo progetto relativo a JavaScript Basics ho lavorato creando un counter grazie alla manipolazione del DOM.</li>
 <li>Ho creato gli elementi HTML in JS per poi svolgere le funzioni al click del bottone + e del bottone - in modo che il valore del counter si incrementasse o si riducesse.
